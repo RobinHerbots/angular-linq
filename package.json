@@ -1,0 +1,24 @@
+{
+  "name": "@robinherbots/angular-linq",
+  "version": "1.0.2",
+  "description": "linq.js library for AngularJS\r http://linqjs.codeplex.com/",
+  "main": "angular-linq.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinHerbots/angular-linq.git"
+  },
+  "keywords": [],
+  "author": "Rajkumar.Angular@Gmail.com",
+  "license": "MS-PL",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Angular-Public/angular-linq/issues"
+  },
+  "homepage": "https://github.com/Angular-Public/angular-linq#readme"
+}
